@@ -1,0 +1,12 @@
+.feedback {
+  margin-top: 20px;
+  font-size: 1.1em;
+}
+
+.feedback p {
+  margin: 5px 0;
+}
+
+.positive {
+  color: black
+}

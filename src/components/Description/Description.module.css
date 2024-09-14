@@ -1,0 +1,9 @@
+.description {
+  font-size: 1.3em;
+  margin-bottom: 20px;
+}
+
+.description p {
+  font-size: 1em;
+  color: #666;
+}
